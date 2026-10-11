@@ -1,0 +1,11 @@
+{
+  "name": "O Mundo da Luísa — Pagamentos",
+  "short_name": "Luísa",
+  "description": "Registo dos pagamentos das atividades da Luísa",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#d94f91"
+}
